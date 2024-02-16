@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KyssiKibb
 - 👀 I’m interested in playing games (Valorant, CSGO, Overwatch, League, Roguelikes, Idlers)
-- 🌱 I’m currently learning data structs (graphs, hash tables, avl trees, sorting algorithms, etc.)
-- 📫 How to reach me  - Discord - KyssiKibb#5704
+- 🌱 I’m currently In my senior year working with NodeJS to make a Calorie Tracker App!
+- 📫 How to reach me  - Discord - kyssikibb
 
 <!---
 KyssiKibb/KyssiKibb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
