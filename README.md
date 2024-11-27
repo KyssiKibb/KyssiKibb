@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyssiKibb
 - 👀 I’m interested in playing games (Valorant, CSGO, Overwatch, League, Roguelikes, Idlers)
-- 🌱 I’m currently In my senior year working with NodeJS to make a Calorie Tracker App!
+- 🌱 I’m currently In my senior year working with ASP.NET for WebDev!
 - 📫 How to reach me  - Discord - kyssikibb
 
 <!---
